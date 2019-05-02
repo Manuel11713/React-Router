@@ -1,0 +1,10 @@
+#navegacion h3{
+    color:white;
+    text-decoration: none;
+}
+#navegacion a:hover{
+    text-decoration: none;
+}
+.activo h3{
+    color:yellow !important;
+}
